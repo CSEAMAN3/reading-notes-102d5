@@ -9,6 +9,6 @@
 4. New pages
 
 - Brief Intro
-* About
-+ Growth Mindset
-+ newPages
+- About
+- Growth Mindset
+- newPages
