@@ -2,13 +2,16 @@
 ### Tech Ed Full Stack d5
 
 **Document Content**  
-
-1. Brief Intro
-2. About
-3. Growth Mindset
-4. New pages
-
 - Brief Intro
 - About
 - Growth Mindset
 - newPages
+
+Hi my name is Chris and I am a web developer and course director at Tech Educators.
+Along with web development, my main passions include:
+- Photography
+- Football
+- Playing Guitar
+- Movies
+
+
